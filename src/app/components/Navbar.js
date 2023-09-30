@@ -12,7 +12,7 @@ function Navbar() {
     <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center">
         <Link className='mr-5 hover:text-white' href="/">Home</Link>
         <Link className='mr-5 hover:text-white' href="/about">About</Link>
-        <Link className='mr-5 hover:text-white' href="/blogs">Blogs</Link>
+        <Link className='mr-5 hover:text-white' href="/blog">Blogs</Link>
         <Link className='mr-5 hover:text-white' href="/contact">Contact Us</Link>
     </nav>
   </div>
